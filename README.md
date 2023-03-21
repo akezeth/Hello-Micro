@@ -36,7 +36,7 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Hello Microverse <a name="about-project"></a>
 
 **Hello Microverse** is my first project as Micronaut which has a simple webpage. The project is done to master all the tools and best practices required to setup Microverse project repositories.  
 
